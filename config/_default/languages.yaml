@@ -1,27 +1,23 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
-# Default language
-languages:
-  ko:
-    languageCode: ko
-    # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-    # contentDir: content/ko
-
-# Set default language and subdirectory
 defaultContentLanguage: ko
 defaultContentLanguageInSubdir: true
-
-# Uncomment the lines below to configure your website in a second language.
-# zh:
-#   languageCode: zh-Hans
-#   contentDir: content/zh
-#   title: Chinese website title...
-#   params:
-#     description: Site description in Chinese...
-#   menu:
-#     main:
-#       - name: 传
-#         url: '#about'
-#         weight: 1
+languages:
+  ko:
+    contentDir: content/ko
+    disabled: false
+    languageCode: ko-KR
+    languageDirection: ltr
+    languageName: 한국어
+    params:
+      subtitle: 참고 자료, 튜토리얼 및 설명
+    title: 프로젝트 문서
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 2
