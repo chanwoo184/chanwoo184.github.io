@@ -12,7 +12,7 @@ role: 'JBNU 컴퓨터공학부 학부생'
 status:
   icon: ☕️
 
-Organizations/Affiliations
+#Organizations/Affiliations
 organizations:
   - name: JeonBuk National University
     url: "https://csai.jbnu.ac.kr/csai/index.do"
