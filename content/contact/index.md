@@ -4,9 +4,9 @@ title: "Contact"
 
 # 연락처 정보
 
-- **이메일**: example@example.com
-- **전화번호**: +82-10-1234-5678
-- **주소**: 전라북도 전주시 덕진구 백제대로 567
+- **이메일**: dlacksdn86@naver.com
+- **전화번호**: +82-10-3192-4726
+- **주소**: 전라북도 전주시 완산구 서신동 
 
 # 지도 
 <iframe src="https://www.google.com/maps/embed?pb=...your-google-maps-embed-code..." width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
