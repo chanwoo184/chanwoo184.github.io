@@ -6,7 +6,7 @@ title: 임찬우
 superuser: true
 
 # Role/position
-role: ''
+role: 'JBNU 컴퓨터공학부 학부생'
 
 # Status emoji
 status:
