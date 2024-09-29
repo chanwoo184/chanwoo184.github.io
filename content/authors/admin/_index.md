@@ -12,10 +12,10 @@ role: 'JBNU 컴퓨터공학부 학부생'
 status:
   icon: ☕️
 
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+Organizations/Affiliations
+organizations:
+  - name: JeonBuk National University
+    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -48,6 +48,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/cha.nw0oo/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/chanwoo184
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
