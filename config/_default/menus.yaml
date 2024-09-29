@@ -10,24 +10,28 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-  - name: Projects  # 서브탭을 추가할 메뉴
-    url: /projects/
+  # 서브탭을 추가할 메뉴
+  - name: Projects  
+    identifier: projects
     weight: 30
-    childern:   # 서브탭을 구성하는 부분
-      - name: 웹 개발
-        url: /projects/web-dev/
-        parent: "Projects"
-        weight: 1
-      - name: 데이터 과학
-        url: /projects/data-science/
-        parent: "Projects"
-        weight: 2
+  # 서브탭을 구성하는 부분
+  - name: 웹 개발
+    url: /projects/web-dev/
+    parent: projects
+    weight: 1
+  - name: 데이터 과학
+    url: /projects/data-science/
+    parent: projects
+    weight: 2
+  
   - name: Blog
     url: /blog/
     weight: 40
+  
   - name: Contact
     url: /contact/
     weight: 50
+  
   - name: Gallery
     url: /gallery/
     weight: 60
