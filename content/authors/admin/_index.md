@@ -51,6 +51,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/chanwoo184
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100006963097413
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@%ED%95%B4%EB%A6%B0%EA%B0%95-t9z
+  - icon: discord
+    icon_pack: fab
+    link: https://discord.com/channels/@me
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
