@@ -13,7 +13,7 @@ main:
   - name: Projects  # 서브탭을 추가할 메뉴
     url: /projects/
     weight: 30
-    submenu:   # 서브탭을 구성하는 부분
+    childern:   # 서브탭을 구성하는 부분
       - name: 웹 개발
         url: /projects/web-dev/
         weight: 1
