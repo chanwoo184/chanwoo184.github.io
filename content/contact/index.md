@@ -9,7 +9,6 @@ title: "Contact"
 - **주소**: 전라북도 전주시 완산구 서신동 
 
 # 지도 
-{{< map coordinates="35.8347358,127.1176878" zoom="15" >}}
 
 # 문의하기
 <form name="contact" method="POST" data-netlify="true">
