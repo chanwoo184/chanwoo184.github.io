@@ -44,7 +44,7 @@ header:
     fixed_to_top: true
     logo:
       # Logo text
-      text: ""
+      text: "ChanWoo"
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     # Shop a call-to-action button in the top right?
