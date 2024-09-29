@@ -1,23 +1,23 @@
-defaultContentLanguage: ko
+defaultContentLanguage: de
 defaultContentLanguageInSubdir: true
 languages:
-  ko:
-    contentDir: content/ko
+  de:
+    contentDir: content/de
     disabled: false
-    languageCode: ko-KR
+    languageCode: de-DE
     languageDirection: ltr
-    languageName: 한국어
-    params:
-      subtitle: 참고 자료, 튜토리얼 및 설명
-    title: 프로젝트 문서
+    languageName: Deutsch
+    title: Projekt Dokumentation
     weight: 1
+    params:
+      subtitle: 'Referenz, Tutorials und Erklärungen'
   en:
     contentDir: content/en
     disabled: false
     languageCode: en-US
     languageDirection: ltr
     languageName: English
-    params:
-      subtitle: Reference, Tutorials, and Explanations
     title: Project Documentation
     weight: 2
+    params:
+      subtitle: 'Reference, Tutorials, and Explanations'
