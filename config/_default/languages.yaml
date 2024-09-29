@@ -1,5 +1,5 @@
-string defaultContentLanguage: ko
-bool defaultContentLanguageInSubdir: true
+defaultContentLanguage: 'ko'
+
 languages:
   ko:
     contentDir: content/ko
