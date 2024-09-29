@@ -1,0 +1,35 @@
+---
+title: "Contact"
+---
+
+# 연락처 정보
+
+- **이메일**: example@example.com
+- **전화번호**: +82-10-1234-5678
+- **주소**: 전라북도 전주시 덕진구 백제대로 567
+
+# 지도 
+<iframe src="https://www.google.com/maps/embed?pb=...your-google-maps-embed-code..." width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+# 문의하기
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>이름: <input type="text" name="name"></label>
+  </p>
+  <p>
+    <label>이메일: <input type="email" name="email"></label>
+  </p>
+  <p>
+    <label>메시지: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">보내기</button>
+  </p>
+</form>
+
+
+
+
+
+
+
