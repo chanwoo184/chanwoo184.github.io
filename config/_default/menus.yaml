@@ -41,9 +41,5 @@ main:
     url: /gallery/
     weight: 60
 
-  - name: Search
-    url: /search/
-    weight: 70
-    pre: '<i class="fas fa-search"></i>'
         
     
