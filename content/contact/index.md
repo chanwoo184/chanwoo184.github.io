@@ -1,31 +1,30 @@
 ---
-title: "Contact"
----
+title: Contact
 
-# 연락처 정보
+type: landing
 
-- **이메일**: dlacksdn86@naver.com
-- **전화번호**: +82-10-3192-4726
-- **주소**: 전라북도 전주시 완산구 서신동 
+sections:
+  -block: contact
+    content:
+    title: Contact
+    email: dlacksdn86@naver.com
+    phone: +82-10-3192-4726
+    address:
+      street: 전북대학교 공과대학 7호관 626호
+      city: 전주시
+      region: 전라북도
+      postcode: '54896'
+      country: 대한민국
+      country_code: KO
+    coordinates:
+      latitude: '35.84601324617979'
+      longitude: '127.13444961966684'
+    directions:
 
-# 지도 
+    autolink: true
 
-# 문의하기
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>이름: <input type="text" name="name"></label>
-  </p>
-  <p>
-    <label>이메일: <input type="email" name="email"></label>
-  </p>
-  <p>
-    <label>메시지: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">보내기</button>
-  </p>
-</form>
-
+    design:
+      columns: '3'
 
 
 
