@@ -21,27 +21,25 @@ content:
       align: center
 
       background:
-        image: 
-            filename: welcome.jpg
-            filters:
-                brightness: 0.4
         position: center
-        color: '#555'
+        color: '#333'
+        brightness: 0.4
+        media: welcome.jpg
+        fit: cover
 
     - title: <span style="font-size:90%">Devolp</span>
       content: <span style="font-size:90%">C++로 즐기는 개발 과정</span>
       align: center
       background:
-        image:
-            filename: code.jpg
-            filters:
-                brightness: 0.4
-      position: center
-      color: '#555'
+        position: center
+        color: '#333'
+        brightness: 0.4
+        media: code.jpg
+        fit: cover
     
     - title: <span style="font-size:90%">Contact</span>
       content: create with me?
-      algin: right
+      align: right
       background: 
         position: center
         color: '#333'
