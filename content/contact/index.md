@@ -2,6 +2,10 @@
 title: Contact
 type: landing
 
+banner:
+  caption: ''
+  image: 'contact2.jpg'
+
 sections:
   - block: contact
     content:
