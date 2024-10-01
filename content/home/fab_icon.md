@@ -11,8 +11,8 @@ weight: 15 # The position of section on page
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: r-project
-    icon_pack: fab
+  - icon: &#xf5dc
+    icon_pack: fas
     name: R
     description: 90%
   - icon: chart-line
