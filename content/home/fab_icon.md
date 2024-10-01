@@ -13,7 +13,7 @@ weight: 15 # The position of section on page
 feature:
   - icon: code
     icon_pack: fas
-    name: code
+    name: coding
     description: 90%
   - icon: chart-line
     icon_pack: fas
@@ -23,6 +23,10 @@ feature:
     icon_pack: fas
     name: Photography
     description: 10%
+  - icon: gamepad
+    icon_pack: fas
+    name: game
+    description: enjoy
 
   # Example using an emoji as an icon.
   - icon: '😄'
