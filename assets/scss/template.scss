@@ -37,6 +37,7 @@ body {
 .navbar a:hover {
   background-color: rgba(255, 255, 255, 0.2); /* 배경색 변경 */
   color: #5e95c3 !important; /* 텍스트 색상 변경 */
+  transition: color 0.2s;
 }
 
 // custom section padding
