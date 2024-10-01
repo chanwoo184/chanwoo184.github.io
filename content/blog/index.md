@@ -1,5 +1,9 @@
 ---
 title : Blog
+
+banner:
+  caption: ''
+  image: 'blog.jpg'
 ---
 
 # 블로그 정보 
