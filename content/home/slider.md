@@ -22,7 +22,7 @@ content:
 
       background:
         image: 
-            filename: welcome.jpg
+            filename: images/welcome.jpg
             filters:
                 brightness: 0.4
         position: center
@@ -33,7 +33,7 @@ content:
       align: center
       background:
         image:
-            filename: code.jpg
+            filename: images/code.jpg
             filters:
                 brightness: 0.4
       position: center
