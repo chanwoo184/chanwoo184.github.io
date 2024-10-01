@@ -34,8 +34,9 @@ body {
 }
 
 // no navbar shadow
-.navbar {
-  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+.navbar a:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* 배경색 변경 */
+  color: #32658e; /* 텍스트 색상 변경 */
 }
 
 // custom section padding
