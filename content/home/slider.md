@@ -39,7 +39,7 @@ content:
     
     - title: <span style="font-size:90%">Contact</span>
       content: create with me?
-      align: right
+      align: center
       background: 
         position: center
         color: '#333'
