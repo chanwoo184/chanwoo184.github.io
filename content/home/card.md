@@ -3,8 +3,7 @@ widget: collection # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-- title: Recent Blog Posts
-  align: left
+title: Recent Blog Posts
 subtitle: ''
 
 # Position of this section on the page
@@ -34,9 +33,10 @@ content:
   sort_ascending: false
 design:
   # Choose a listing view
-  view: compact
+  view: community/card
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
+  title_align: left
 ---
 
-Check out my recent blog posts below!
+
