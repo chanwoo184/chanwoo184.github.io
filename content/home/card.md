@@ -16,7 +16,7 @@ sections:
       # `content/post/` 폴더의 콘텐츠 표시
       filters:
         folders:
-          - projects
+          - contact
     design:
       # 섹션의 열 수 선택. 유효 값: '1' 또는 '2'.
       columns: '1'
