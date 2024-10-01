@@ -38,5 +38,19 @@ content:
                 brightness: 0.4
       position: center
       color: '#555'
-           
+    
+    - title: <span style="font-size:90%">Contact</span>
+      content: create with me?
+      algin: right
+      background: 
+        position: center
+        color: '#333'
+        brightness: 0.4
+        media: contact.jpg
+        fit: cover
+      link:
+        icon: phone
+        icon_pack: fas
+        text: <span style="font-size:60%">Contact</span>
+        url: contact/
 ---
