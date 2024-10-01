@@ -21,7 +21,7 @@ sections:
       # 섹션의 열 수 선택. 유효 값: '1' 또는 '2'.
       columns: '1'
       # 콘텐츠 나열 뷰 선택 - 여기서는 `showcase` 뷰 사용
-      view: showcase
+      view: community/card
       # Showcase 뷰에서 대체 행 뒤집기 여부
       flip_alt_rows: true
 ---
