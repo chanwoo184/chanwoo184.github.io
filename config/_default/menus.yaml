@@ -21,7 +21,7 @@ main:
     parent: projects
     weight: 1
   - name: 데이터 과학
-    url: projects 
+    url: /projects/_index
     parent: projects
     weight: 2
   
