@@ -3,7 +3,7 @@ widget: features # As of v5.8-dev, 'featurette' is renamed 'features'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: My Experience
+title: My Interests
 subtitle:
 weight: 15 # The position of section on page
 
@@ -14,23 +14,20 @@ feature:
   - icon: code
     icon_pack: fas
     name: coding
-    description: 90%
   - icon: chart-line
     icon_pack: fas
     name: Statistics
-    description: 100%
   - icon: camera-retro
     icon_pack: fas
     name: Photography
-    description: 10%
   - icon: gamepad
     icon_pack: fas
     name: game
-    description: enjoy
-
-  # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
-    name: Emojiness
-    description: 100%
+  - icon: headphones
+    icon_pack: fas
+    name: music
+  - icon: film
+    icon_pack: fas
+    name: movie
+    
 ---
