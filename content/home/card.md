@@ -7,7 +7,7 @@ title: Recent Blog Posts
 subtitle: ''
 
 # Position of this section on the page
-weight: 1
+weight: 30
 
 content:
   # Filter content to display
