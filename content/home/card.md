@@ -1,27 +1,41 @@
 ---
-# 페이지 제목
-title: My page
-# 페이지 유형 - 랜딩 페이지
-type: landing
+widget: collection # As of v5.8-dev, 'pages' is renamed 'collection'
+headless: true  # This file represents a page section.
 
-# 랜딩 페이지 섹션 - 다양한 콘텐츠 블록 추가 가능
-sections:
-  # 블로그 게시물을 표시하는 섹션
-  - block: collection
-    id: section-1
-    content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      # `content/post/` 폴더의 콘텐츠 표시
-      filters:
-        folders:
-          - contact
-    design:
-      # 섹션의 열 수 선택. 유효 값: '1' 또는 '2'.
-      columns: '1'
-      # 콘텐츠 나열 뷰 선택 - 여기서는 `showcase` 뷰 사용
-      view: community/card
-      # Showcase 뷰에서 대체 행 뒤집기 여부
-      flip_alt_rows: true
+# Put Your Section Options Here (title, background, etc.) ...
+title: Recent Blog Posts
+subtitle: ''
+
+# Position of this section on the page
+weight: 1
+
+content:
+  # Filter content to display
+  filters:
+    # The folders to display content from
+    folders:
+      - projects
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    featured_only: false
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 10
+  # Choose how many pages you would like to offset by
+  # Useful if you wish to show the first item in the Featured widget
+  offset: 0
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
+design:
+  # Choose a listing view
+  view: community/card
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
 ---
+
+Check out my recent blog posts below!
