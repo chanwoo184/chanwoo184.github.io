@@ -2,6 +2,8 @@
 title: Contact
 type: landing
 
+view: community/card
+
 banner:
   caption: ''
   image: 'contact2.jpg'
