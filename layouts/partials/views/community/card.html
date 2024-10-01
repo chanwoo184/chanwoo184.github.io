@@ -1,4 +1,5 @@
 {{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
 
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
@@ -7,26 +8,51 @@
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 
-{{ $resource := partial "functions/get_featured_image.html" $item }}
-{{ $anchor := $item.Params.image.focal_point | default "Center" }}
+{{/* Get summary. */}}
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if $item.Params.abstract }}
+  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ else if $item.Summary }}
+  {{ $summary = $item.Summary }}
+{{ end }}
 
-<a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="mb-5">
-  <div class="md:flex">
-    <div class="md:flex-shrink-0 overflow-hidden">
-      {{ with $resource }}
-        {{ $image := .Fill (printf "655x655 %s" $anchor) }}
-        {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}" alt="{{ $item.Title | plainify }}">
-      {{end}}
+{{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+
+<div class="card">
+  {{ with $resource }}
+  {{ $image := .Resize "550x" }}
+  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
+    <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+         alt="{{ $item.Title }}" class="img-responsive" loading="lazy" style="margin-top: 15px;">
+  </a>
+  {{ end }}
+  <div class="card-text">
+    <div class="section-subheading article-title mb-1 mt-3">
+        <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
     </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">{{ $item.Title }}</div>
-      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
-        {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
-      </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">
-        {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
-      </p>
+    
+
+    {{ if $item.Params.authors }}
+    <div class="article-metadata">
+        <div>
+            {{ partial "page_metadata_authors" $item }}
+        </div>
     </div>
+    {{ end }}
+
+    {{ with $summary }}
+    <div class="article-style">
+      <p>{{ . }}</p>
+    </div>
+    {{ end }}
+
+    {{ if $has_attachments }}
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+    {{ end }}
   </div>
-</a>
+</div>
