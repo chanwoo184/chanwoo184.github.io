@@ -18,8 +18,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    org_name: '임찬우'
+    description: '전북대 임찬우.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
