@@ -25,7 +25,7 @@ experience:
   - title: University student
     company: 전주대학교
     company_url: ''
-    company_logo: university
+    company_logo: school
     location: 전라북도 전주시 
     date_start: '2019-03-01'
     date_end: '2022-12-27'
@@ -34,7 +34,7 @@ experience:
   - title: University student
     company: 전북대학교
     company_url: ''
-    company_logo: university
+    company_logo: schllo
     location: 전라북도 전주시
     date_start: '2024-03-01'
     date_end: ''
