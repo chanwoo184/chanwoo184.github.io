@@ -14,7 +14,8 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - projects
+      - project-ds
+      - project-wd
     tag: ''
     category: ''
     publication_type: ''

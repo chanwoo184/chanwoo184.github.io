@@ -17,11 +17,11 @@ main:
     weight: 30
   # 서브탭을 구성하는 부분
   - name: 웹 개발
-    url: /projects/web-dev/ 
+    url: project-wd/
     parent: projects
     weight: 1
   - name: 데이터 과학
-    url: /projects/_index
+    url: project-ds
     parent: projects
     weight: 2
   
