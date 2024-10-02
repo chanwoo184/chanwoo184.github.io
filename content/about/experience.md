@@ -34,7 +34,7 @@ experience:
   - title: University student
     company: 전북대학교
     company_url: ''
-    company_logo: school
+    company_logo: org-gc
     location: 전라북도 전주시
     date_start: '2024-03-01'
     date_end: ''
