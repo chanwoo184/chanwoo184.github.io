@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CW # Website name
-baseURL: 'https://chanwoo184.site/' # Website URL
+baseURL: 'https://chanwoo184.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS
