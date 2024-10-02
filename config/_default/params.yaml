@@ -27,7 +27,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: '<meta name="google-site-verification" content="KgADDIP9sR5vWgbnN1oyiLbdWG4-GPT_UkLe0JXOU04" />'
+    google: 'KgADDIP9sR5vWgbnN1oyiLbdWG4-GPT_UkLe0JXOU04'
     baidu: ''
 
 # Site header
