@@ -9,4 +9,4 @@ date: 2024-08-29
 
 **https://github.com/chanwoo184/efef**
 
--html, css를 활용한 웹 페이지 개발 
+- html, css를 활용한 웹 페이지 개발 
