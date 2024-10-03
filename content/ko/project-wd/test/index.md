@@ -7,6 +7,6 @@ date: 2024-08-29
 
 <!--more-->
 
-**https://github.com/chanwoo184/efef**
+Click here ==> **https://github.com/chanwoo184/web-design**
 
 - html, css를 활용한 웹 페이지 개발 
