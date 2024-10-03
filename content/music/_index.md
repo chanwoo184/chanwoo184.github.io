@@ -1,5 +1,5 @@
 ---
-title: my playlist
+title: My playlist
 
 view: community/compact
 
