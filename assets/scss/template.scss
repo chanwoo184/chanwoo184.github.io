@@ -50,13 +50,26 @@ body {
   transition: color 0.2s;
 }
 
+/* 메뉴를 감싸는 컨테이너 (예: .navbar)에 플렉스 박스를 적용하고 가운데 정렬 */
+.navbar {
+  display: flex;              /* 플렉스 박스를 활성화 */
+  justify-content: center;     /* 가운데 정렬 */
+  align-items: center;         /* 수직 가운데 정렬 */
+}
+
 /* 각 메뉴 아이템이 간격을 갖도록 함 */
 .navbar ul {
   display: flex;
   gap: 20px;                   /* 메뉴 항목 간의 간격 조정 */
   padding: 0;
   margin: 0;
-  list-style: none;           
+  list-style: none;            /* 기본 목록 스타일 제거 */
+}
+
+.navbar a {
+  text-align: center;          /* 링크 텍스트도 가운데 정렬 */
+  text-decoration: none;       /* 링크 밑줄 제거 */
+  color: inherit;              /* 부모 요소의 텍스트 색상 상속 */
 }
 
 // custom section padding
