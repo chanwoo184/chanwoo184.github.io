@@ -42,11 +42,11 @@ main:
     weight: 60
     #서브탭 
   - name: Music
-    url: music/
+    url: music
     parent: interests
     weight: 1
   - name: Movie
-    url: movie/
+    url: movie
     parent: interests
     weight: 2
 
