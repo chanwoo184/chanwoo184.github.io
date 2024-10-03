@@ -39,6 +39,16 @@ body {
   color: #5e95c3 !important; /* 텍스트 색상 변경 */
   transition: color 0.2s;
 }
+.navbar {
+  display: flex;
+  justify-content: space-between; /* 메뉴 항목을 양쪽으로 균등하게 배치 */
+}
+
+.navbar a {
+  text-align: justify; /* 텍스트를 양쪽 정렬 시도 */
+  text-align-last: justify; /* 마지막 줄에도 양쪽 정렬 적용 */
+}
+
 
 // custom section padding
 .home-section {
