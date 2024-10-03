@@ -50,6 +50,15 @@ body {
   transition: color 0.2s;
 }
 
+/* 각 메뉴 아이템이 간격을 갖도록 함 */
+.navbar ul {
+  display: flex;
+  gap: 20px;                   /* 메뉴 항목 간의 간격 조정 */
+  padding: 0;
+  margin: 0;
+  list-style: none;           
+}
+
 // custom section padding
 .home-section {
   padding: 1rem 0;
