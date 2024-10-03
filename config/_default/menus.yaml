@@ -37,8 +37,8 @@ main:
     latitude: '37.4275'
     longitude: '-122.1697'
   
-  - name: Gallery
-    url: /gallery/
+  - name: Interests
+    url: /interests/
     weight: 60
 
         
