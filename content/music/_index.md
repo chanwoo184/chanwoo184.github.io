@@ -1,7 +1,7 @@
 ---
 title: my playlist
 
-view: community/card
+view: community/compact
 
 banner:
   caption: ''
