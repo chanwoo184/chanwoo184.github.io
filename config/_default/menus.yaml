@@ -31,7 +31,7 @@ main:
   
   - name: Contact
     url: /contact/
-    weight: 50
+    weight: 60
     content:
     coordinates:
     latitude: '37.4275'
@@ -39,7 +39,7 @@ main:
   
   - name: Interests
     identifier: interests
-    weight: 60
+    weight: 50
     #서브탭 
   - name: Music
     url: music
