@@ -3,7 +3,16 @@
 
 body {
   background-color: rgb(247, 250, 252);
-  text-align: justify;
+}
+
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
 }
 
 .article-container {
@@ -72,7 +81,6 @@ ul.network-icon .big-icon {
   width: 45em;
   max-width: calc(100% - 4em);
   margin: 0 auto;
-  text-align: justify;
 }
 
 .home-section > .content > :last-child {
@@ -81,7 +89,7 @@ ul.network-icon .big-icon {
 
 .home-section header {
   margin-bottom: 1em;
-  text-align: center;
+
 }
 
 // Narrower container for Hello World sections (primarily Blank widget content).
