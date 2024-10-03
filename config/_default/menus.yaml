@@ -38,8 +38,18 @@ main:
     longitude: '-122.1697'
   
   - name: Interests
-    url: /interests/
+    identifier: interests
     weight: 60
+    #서브탭 
+  - name: Music
+    url: music/
+    parent: interests
+    weight: 1
+  - name: Movie
+    url: movie/
+    parent: interests
+    weight: 2
+
 
         
     
