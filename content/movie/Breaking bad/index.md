@@ -3,7 +3,7 @@ title: Breaking Bad
 date: 2024-08-29
 ---
 
-
+《브레이킹 배드》(Breaking Bad)는 빈스 길리언이 감독 및 제작하고 AMC에서 방영한 미국 범죄 드라마이다.
 <!--more-->
 **You can watch it on Netflix!**
 https://www.netflix.com/search?q=%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%82%B9&jbv=70143836
