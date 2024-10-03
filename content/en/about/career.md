@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: University
-    company: 전주대학교
+    company: Jeonju University
     company_url: ''
     company_logo: org-x
     location: 전라북도 전주시
