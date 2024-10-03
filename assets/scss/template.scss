@@ -3,6 +3,7 @@
 
 body {
   background-color: rgb(247, 250, 252);
+  text-align: justify;
 }
 
 .article-container {
@@ -39,16 +40,6 @@ body {
   color: #5e95c3 !important; /* 텍스트 색상 변경 */
   transition: color 0.2s;
 }
-.navbar {
-  display: flex;
-  justify-content: space-between; /* 메뉴 항목을 전체 너비에 고르게 배치 */
-}
-
-.navbar a {
-  padding: 0 10px; /* 메뉴 항목 간의 간격을 추가 */
-  flex: 1; /* 각 항목이 동일한 공간을 차지하도록 설정 */
-}
-
 
 // custom section padding
 .home-section {
