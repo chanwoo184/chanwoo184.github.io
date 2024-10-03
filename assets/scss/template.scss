@@ -41,12 +41,12 @@ body {
 }
 .navbar {
   display: flex;
-  justify-content: space-between; /* 메뉴 항목을 양쪽으로 균등하게 배치 */
+  justify-content: space-between; /* 메뉴 항목을 전체 너비에 고르게 배치 */
 }
 
 .navbar a {
-  text-align: justify; /* 텍스트를 양쪽 정렬 시도 */
-  text-align-last: justify; /* 마지막 줄에도 양쪽 정렬 적용 */
+  padding: 0 10px; /* 메뉴 항목 간의 간격을 추가 */
+  flex: 1; /* 각 항목이 동일한 공간을 차지하도록 설정 */
 }
 
 
