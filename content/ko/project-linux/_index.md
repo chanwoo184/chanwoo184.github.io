@@ -1,10 +1,10 @@
 ---
-title: 데이터 사이언스 프로젝트
+title: 리눅스 프로젝트
 
 view: community/card
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'welcome.jpg'
+  image: 'linux.jpg'
 
 ---
