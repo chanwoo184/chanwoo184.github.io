@@ -1,4 +1,4 @@
-# [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+# [My Website with Hugo Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
 [![Screenshot](preview.png)](https://chanwoo184.github.io/)
 
