@@ -1,5 +1,7 @@
 ---
 title: GNS3를 통한 VPC 간 연결 설정 확인
+tags:
+    - nw
 date: 2024-08-29
 ---
 

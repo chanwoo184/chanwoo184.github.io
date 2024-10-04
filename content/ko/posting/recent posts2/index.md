@@ -1,5 +1,7 @@
 ---
 title: A priori 알고리즘을 이용한 연관규칙 마이닝 구현
+tags:
+    - dm
 date: 2024-08-30
 image: 
     caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
