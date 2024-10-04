@@ -1,5 +1,5 @@
 ---
-title: 웹 개발 프로젝트
+title: Web design project
 
 view: community/card
 

@@ -1,5 +1,5 @@
 ---
-title: 리눅스 프로젝트
+title: Linux project
 
 view: community/card
 
