@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 정보처리기능사
-    company: 한국산업인력공단
+  - title: Craftsman Information Processing
+    company: Human Resources Development Service of Korea
     company_url: ''
     company_logo: certifiy
-    location: 전라북도 전주시
+    location: Jeonju, Jeollabuk-do
     date_start: '2019-07-14'
     date_end: ''
-    description: 정보처리기능사 자격증 취득 
+    description: Acquired the Craftsman Information Processing certificate
 
-  - title: 컴퓨터활용능력2급
-    company: 대한상공회의소
+  - title: Computer Specialist in Spreadsheet & Database Level 2
+    company: Korea Chamber of Commerce and Industry
     company_url: ''
     company_logo: certifiy
-    location: 전라북도 전주시
+    location: Jeonju, Jeollabuk-do
     date_start: '2023-06-19'
     date_end: ''
-    description: 컴퓨터활용능력2급 자격증 취득 
+    description: Acquired the Computer Specialist in Spreadsheet & Database Level 2 certificate
 
 design:
   columns: '1'
