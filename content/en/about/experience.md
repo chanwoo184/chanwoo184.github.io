@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: University student
-    company: 전주대학교
+  - title: University Student
+    company: Jeonju University
     company_url: ''
     company_logo: university
-    location: 전라북도 전주시 
+    location: Jeonju, Jeollabuk-do
     date_start: '2019-03-01'
     date_end: '2022-12-27'
-    description: 전주대 정보통신공학과 재학 
+    description: Studied in the Department of Information and Communication Engineering at Jeonju University.
 
-  - title: University student
-    company: 전북대학교
+  - title: University Student
+    company: Jeonbuk National University
     company_url: ''
     company_logo: university
-    location: 전라북도 전주시
+    location: Jeonju, Jeollabuk-do
     date_start: '2024-03-01'
     date_end: ''
-    description: 전북대 컴퓨터공학부 재학 
+    description: Currently studying in the Department of Computer Engineering at Jeonbuk National University.
 
 design:
   columns: '1'

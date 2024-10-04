@@ -1,41 +1,24 @@
 ---
 # Display name
-title: 임찬우
+title: Chanwoo Lim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 'JBNU 컴퓨터공학부 학부생'
+role: 'Undergraduate Student in Computer Engineering at JBNU'
 
 # Status emoji
 status:
   icon: ☕️
 
-#Organizations/Affiliations
+# Organizations/Affiliations
 organizations:
   - name: JeonBuk National University
     url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+bio: My research interests include distributed robotics, mobile computing, and programmable matter.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,12 +54,12 @@ social:
 #email: ""
 ---
 
-안녕하세요, 저는 전북대학교 컴퓨터 공학부에 재학 중인 백엔드 개발에 관심이 많은 202246117 임찬우 입니다. 소프트웨어의 핵심 구조를 설계하고 데이터 흐름을 관리하는 백엔드 개발에 매력을 느끼며, 다양한 프로젝트를 통해 실력을 쌓고 있습니다.
+Hello, I am Chanwoo Lim, an undergraduate student majoring in Computer Engineering at Jeonbuk National University. I am particularly interested in backend development, focusing on designing the core structure of software and managing data flow. Through various projects, I am continuously improving my skills.
 
-특히 데이터베이스 설계, API 구축, 서버 최적화와 같은 기술적 도전에 흥미를 느끼고, 이를 통해 사용자에게 안정적이고 효율적인 서비스를 제공하는 것이 목표입니다. 현재 학업과 병행하여 다양한 백엔드 관련 기술 스택을 학습하고 있으며, Python, Java, SQL 등 여러 프로그래밍 언어를 익혀 실제 프로젝트에 적용하고 있습니다.
+I find technical challenges such as database design, API development, and server optimization fascinating. My goal is to provide stable and efficient services to users. Alongside my academic pursuits, I am learning various backend-related technologies, including Python, Java, SQL, and applying them in real-world projects.
 
-앞으로도 끊임없이 발전하는 IT 환경 속에서 새로운 기술을 배우고 성장하며, 더 나은 솔루션을 제공하는 백엔드 개발자가 되고 싶습니다.
+I aspire to become a backend developer who continuously learns and grows within the rapidly evolving IT environment, delivering better solutions.
 
-감사합니다.
+Thank you.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
