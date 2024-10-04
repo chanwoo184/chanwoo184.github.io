@@ -1,12 +1,12 @@
 ---
-title: Web design project
+title: Web Design Project
 date: 2024-08-29
 ---
 
-저의 웹 개발 프로젝트에 대해 관심 있으시면 클릭해주세요!
+If you're interested in my web development project, please click here!
 
 <!--more-->
 
 Click here ==> **https://github.com/chanwoo184/web-design**
 
-- html, css를 활용한 웹 페이지 개발 
+- Development of web pages using HTML and CSS.

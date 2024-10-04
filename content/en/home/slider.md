@@ -28,7 +28,7 @@ content:
         fit: cover
 
     - title: <span style="font-size:90%">Devolp</span>
-      content: <span style="font-size:90%">C++로 즐기는 개발 과정</span>
+      content: <span style="font-size:90%">Enjoying the Development Process with C++</span>
       align: center
       background:
         position: center
