@@ -14,7 +14,7 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - project-ds
+      - project-linux
       - project-wd
     tag: ''
     category: ''
