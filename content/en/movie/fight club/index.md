@@ -3,10 +3,10 @@ title: Fight Club
 date: 2024-08-30
 ---
 
-《파이트 클럽》(영어: Fight Club)은 1999년 개봉한 미국의 영화로, 척 팔라닉의 동명 소설을 원작으로 데이비드 핀처가 연출하였다.
+*Fight Club* is a 1999 American film directed by David Fincher, based on the novel of the same name by Chuck Palahniuk.
 <!--more-->
 **You can watch it on CoupangPlay!** ==> https://www.coupangplay.com/content/5ff2c8fe-66a7-47b1-afd4-b380dd16760d
 
-미국 소설가 척 팔라닉이 쓴 동명의 소설을 원작으로 한 데이비드 핀처의 1999년 영화.
+The film is based on the novel of the same name by American author Chuck Palahniuk and was directed by David Fincher in 1999.
 
-브래드 피트, 에드워드 노튼, 헬레나 본햄 카터 등이 주연으로 출연했으며, 자레드 레토도 조연으로 출연했다. 개봉 당시 세븐으로 유명세를 얻은 핀처의 신작으로 기대를 모았지만 예상만큼 좋은 반응을 얻지는 못하였다. 그러나 현재는 데이비드 핀처의 대표작 중 하나로 평가받는다. 제72회 아카데미 시상식 음향편집상 후보에 올랐다.
+Starring Brad Pitt, Edward Norton, and Helena Bonham Carter, with Jared Leto in a supporting role, *Fight Club* garnered anticipation as Fincher’s follow-up to *Seven*. However, it didn't receive the expected acclaim upon its release. Today, it is considered one of Fincher's most iconic works. The film was nominated for the Best Sound Editing Award at the 72nd Academy Awards.

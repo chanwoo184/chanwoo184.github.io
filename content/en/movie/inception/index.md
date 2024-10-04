@@ -3,11 +3,11 @@ title: Inception
 date: 2024-08-31
 ---
 
-《인셉션》(Inception)은 2010년 영국, 미국 합작의 SF 액션 스릴러 영화이다. 크리스토퍼 놀런이 감독, 각본, 제작을 맡았다.
+*Inception* is a 2010 British-American science fiction action thriller film directed, written, and produced by Christopher Nolan.
 <!--more-->
 **You can watch it on Netflix!** ==> https://www.netflix.com/title/70131314
-    
+  
 
-2001년 감독 놀런은 자각몽(루시드 드림)에 영감을 받아 '꿈 도둑' 소재의 호러 영화로 구상 중이던 이야기의 제안서를 워너 브라더스에 냈다. 이후 큰 규모의 영화 제작을 경험해 볼 필요가 있다고 느낀 놀런은 일단 인셉션 계획안에서 물러나 대신 《배트맨 비긴즈(2005)》, 《프레스티지(2006)》, 그리고 《다크나이트(2008)》를 만들었고 《인셉션》의 각본은 2009년 2월 매입되었다. 2009년 6월 19일 도쿄에서 시작해 2009년 11월 22일 캐나다에서 끝날 때까지 6개국 4개대륙에서 촬영되었다. 제작에는 워너 브라더스와 레전더리 픽처스에서 공식적으로 1억 6천만 달러의 비용이 지출되었다.
+In 2001, director Nolan, inspired by the concept of lucid dreaming, submitted a pitch for a horror film about "dream thieves" to Warner Bros. However, feeling the need to gain more experience in large-scale filmmaking, he temporarily shelved *Inception* and went on to make *Batman Begins* (2005), *The Prestige* (2006), and *The Dark Knight* (2008). The script for *Inception* was purchased in February 2009. Filming began in Tokyo on June 19, 2009, and concluded in Canada on November 22, 2009, spanning six countries and four continents. The production officially spent $160 million through Warner Bros. and Legendary Pictures.
 
-2010년 7월 8일 런던에서 최초 개봉했으며, 이외의 지역에서 2010년 7월 16일 아이맥스 영화관과 일반 영화관에서 동시 개봉했다. 흥행에 성공하여 전 세계적으로 총수익이 8억 달러를 넘어 최근 가장 높은 수익을 올린 영화 중 하나가 되었다. DVD 판매는 6억 8천만 달러에 이르렀다. 작품 면에서도 폭넓은 호평을 받아 수많은 비평가들로부터 독창성, 캐스팅, 음향, 시각효과로 찬사를 받았다. 아카데미상 촬영, 각본(창작), 음향편집, 시각효과상 후보에 올라 모두 수상했다.
+The film premiered in London on July 8, 2010, and was released in IMAX and conventional theaters worldwide on July 16, 2010. It became a box office success, grossing over $800 million worldwide, making it one of the highest-grossing films in recent years. DVD sales reached $680 million. The film received widespread critical acclaim for its originality, casting, sound, and visual effects, and won Academy Awards for Best Cinematography, Best Original Screenplay, Best Sound Editing, and Best Visual Effects.
