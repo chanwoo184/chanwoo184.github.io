@@ -10,12 +10,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Recent Posts'
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: posting
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -28,12 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Data Mining
+      tag: dm
+    - name: Network
+      tag: nw
 
 design:
   columns: '1'
