@@ -2,31 +2,20 @@
 
 [![Screenshot](preview.png)](https://chanwoo184.github.io/)
 
-The **Hugo Portfolio Template** empowers you to easily create a portfolio website. Make it your own by choosing a color theme and grid layout!
+## 소개
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+이 웹사이트는 전북대학교에서 컴퓨터 과학을 전공하는 임찬우의 포트폴리오 사이트입니다. 웹사이트는 Hugo로 개발되었으며, 개인의 학업, 프로젝트, 경력 및 포트폴리오를 소개합니다. 주로 백엔드 개발에 중점을 둔 다양한 프로젝트와 경험을 포함하고 있습니다.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+## 주요 기능
 
-[Check out the latest demo](https://hugo-portfolio-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+- **다국어 지원**: 기본 언어는 한국어로 설정되어 있으며, 직관적이고 사용하기 쉬운 인터페이스를 제공합니다.
+- **반응형 디자인**: 다양한 화면 크기에서 최적화된 레이아웃을 제공하여, 데스크탑과 모바일 모두에서 잘 작동합니다.
+- **경력 섹션**: 전북대학교와 관련된 경력 및 프로젝트에 대한 자세한 설명을 포함하고 있습니다.
+- **슬라이더**: 페이지 상단에 이미지를 슬라이드쇼 형태로 표시하여 비주얼적으로 매력적인 경험을 제공합니다.
+- **SEO 최적화**: Google Search Console을 통해 사이트맵이 제출되어 검색 엔진 최적화를 지원합니다.
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## 기술 스택
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
-
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+- **Hugo**: 웹사이트는 정적 사이트 생성기인 Hugo를 사용하여 개발되었습니다.
+- **SCSS**: 스타일링은 SCSS로 작성되었으며, 라이트 및 다크 테마를 지원합니다.
+- **GitHub Pages**: GitHub Pages를 통해 웹사이트가 호스팅되고 있으며, 지속적인 배포를 지원합니다.
