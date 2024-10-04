@@ -24,11 +24,17 @@ main:
     url: project-ds
     parent: projects
     weight: 2
-  
+    
+  # 서브탭 추가 메뉴
   - name: Blog
-    url: /blog/
+    identifier: blog
     weight: 40
-  
+  # 서브탭 구성 메뉴 
+  - name: Posting
+    url: posting/
+    parent: blog
+    weight: 1
+
   - name: Contact
     url: /contact/
     weight: 60
