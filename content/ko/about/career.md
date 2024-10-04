@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: certifiy
     location: 전라북도 전주시
-    date_start: '2023-06'
+    date_start: '2023-06-19'
     date_end: ''
     description: 컴퓨터활용능력2급 자격증 취득 
 
