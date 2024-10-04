@@ -1,27 +1,27 @@
 ---
-title: GNS3를 통한 VPC 간 연결 설정 확인
+title: Verifying VPC Connection Setup via GNS3
 tags:
     - nw
 date: 2024-08-29
 ---
 
-SW개발자 입장에서의 컴퓨터 네트워크 환경 실습을 위한 기본적인 구조를 위한 실습.
+A basic setup exercise for practicing computer network environments from a software developer's perspective.
 
 <!--more-->
 
-- 우선 VM 및 GNS3 VM을 설치하여 GNS3에 연결해야 한다 • VM(Virtual machine): 실제 HW가 아니더라도 해당 HW/SW 환경을 만들어주는 프로그램, 내가 가지고 있는 컴퓨터가 Windows/x86 인데, Linux/ARM에서 동작하는 프로그램을 구동해야 할 때? 확실한 방법은 해당 HW/SW를 구매하는 것이겠지만, 여의치 않은 경우 VM SW를 사용하여 가상화된 해당 환경에서 동작시킬 수 있다.
+- First, install the VM and GNS3 VM, then connect them to GNS3. 
+• VM (Virtual Machine): A program that creates a specific HW/SW environment, even without the actual hardware. For example, if your computer runs Windows/x86, but you need to run a program on Linux/ARM, one way is to buy the necessary HW/SW. However, if that is not feasible, you can use VM software to virtualize the required environment and run it.
 
-- GNS3 생성 후 프로젝트 만들기, End Devices 중 VPCS 선택 후 드래그 앤 드롭하여, 하단 Add a link 클릭 후 두 PC를 클릭하여 링크를 생성 후에 위의 Start 버튼 클릭하여 시뮬레이션 실행하면 된다.
+- After creating the GNS3 project, select "VPCS" from End Devices, drag and drop it, then click "Add a link" and link the two PCs. Finally, click the Start button at the top to run the simulation.
 
-- 각 pc들의 console 버튼을 클릭해서 
+- Click the console button for each PC and enter the following commands:
 
 PC1> ip 10.1.1.1 255.255.255.0 10.1.1.254
 
 PC2> ip 10.1.1.2 255.255.255.0 10.1.1.254
 
-PC1> ping 10.1.1.2 
+PC1> ping 10.1.1.2
 
-다음 명령어들을 순서대로 입력 한 뒤에 사진처럼 핑이 나타난다면 성공이다.
-
+If the ping appears successfully as shown in the image, then the setup is successful.
 
 **Learn more!** ==> https://blog.naver.com/dlacksdn86
