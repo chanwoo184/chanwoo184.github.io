@@ -7,6 +7,6 @@ date: 2024-08-29
 
 <!--more-->
 
-Click here ==> **https://github.com/chanwoo184/web-design**
+**Learn more!** ==> [GitHub Repository](https://github.com/chanwoo184/web-design)
 
 - html, css를 활용한 웹 페이지 개발 

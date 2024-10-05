@@ -24,4 +24,4 @@ PC1> ping 10.1.1.2
 
 If the ping appears successfully as shown in the image, then the setup is successful.
 
-**Learn more!** ==> https://blog.naver.com/dlacksdn86
+**Learn more!** ==> [Blog Posting](https://blog.naver.com/dlacksdn86)

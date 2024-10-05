@@ -20,4 +20,4 @@ The A Priori algorithm is a classic algorithm for Association Rule Learning.
 **How to find Association Rules?**
 - To generate meaningful association rules from a dataset, metrics such as Support, Confidence, and Lift are used. Techniques like brute force, A Priori algorithm, and FP-growth algorithm are commonly employed.
 
-**Learn more!** ==> https://blog.naver.com/dlacksdn86
+**Learn more!** ==> [Blog Posting](https://blog.naver.com/dlacksdn86)

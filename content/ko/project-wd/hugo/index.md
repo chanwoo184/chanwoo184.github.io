@@ -25,5 +25,5 @@ Hugo 데모 페이지를 활용하여 개인 포폴 사이트 만들기.
 을기르고자 함.
 
 
- **Learn more!**==> https://github.com/chanwoo184/chanwoo184.github.io
+ **Learn more!**==> [GitHub Repository](https://github.com/chanwoo184/chanwoo184.github.io)
 

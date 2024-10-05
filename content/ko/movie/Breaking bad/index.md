@@ -5,7 +5,7 @@ date: 2024-08-29
 
 《브레이킹 배드》(Breaking Bad)는 빈스 길리언이 감독 및 제작하고 AMC에서 방영한 미국 범죄 드라마이다.
 <!--more-->
-**You can watch it on Netflix!** ==> https://www.netflix.com/search?q=%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%82%B9&jbv=70143836
+**You can watch it on Netflix!** ==> [Netflix](https://www.netflix.com/search?q=%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%82%B9&jbv=70143836)
 
 
 미국의 케이블 채널 AMC에서 방영된 TV 시리즈. 미드 엑스파일의 제작자 겸 각본가로 유명한 빈스 길리건이 제작핬다. 총 16개의 에미상을 수상한 역대 최고의 드라마들 중 하나로 손꼽히는 TV 시리즈이다.

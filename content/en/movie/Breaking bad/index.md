@@ -5,7 +5,7 @@ date: 2024-08-29
 
 *Breaking Bad* is an American crime drama directed and produced by Vince Gilligan, aired on AMC.
 <!--more-->
-**You can watch it on Netflix!** ==> https://www.netflix.com/search?q=Breaking+Bad&jbv=70143836
+**You can watch it on Netflix!** ==> [Netflix](https://www.netflix.com/search?q=Breaking+Bad&jbv=70143836)
 
 It aired on the American cable channel AMC. Created by Vince Gilligan, famous for his work as a writer and producer on *The X-Files*, *Breaking Bad* is considered one of the greatest TV series of all time, winning a total of 16 Emmy Awards.
 

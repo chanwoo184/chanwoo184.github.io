@@ -5,7 +5,7 @@ date: 2024-08-31
 
 *Inception* is a 2010 British-American science fiction action thriller film directed, written, and produced by Christopher Nolan.
 <!--more-->
-**You can watch it on Netflix!** ==> https://www.netflix.com/title/70131314
+**You can watch it on Netflix!** ==> [Netflix](https://www.netflix.com/title/70131314)
   
 
 In 2001, director Nolan, inspired by the concept of lucid dreaming, submitted a pitch for a horror film about "dream thieves" to Warner Bros. However, feeling the need to gain more experience in large-scale filmmaking, he temporarily shelved *Inception* and went on to make *Batman Begins* (2005), *The Prestige* (2006), and *The Dark Knight* (2008). The script for *Inception* was purchased in February 2009. Filming began in Tokyo on June 19, 2009, and concluded in Canada on November 22, 2009, spanning six countries and four continents. The production officially spent $160 million through Warner Bros. and Legendary Pictures.

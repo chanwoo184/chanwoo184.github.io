@@ -20,4 +20,4 @@ A Priori 알고리즘은 연관 규칙 학습(Association Rule Learning)을 위�
 - Support, Confidence, Lift 3가지 척도를 이용해서 데이터셋으로부터 의미있는 association rule을 만들어내려면 brute force, apriori algorithm, FP-growth algorithm 등이 있다.
 
 
-**Learn more!** ==> https://blog.naver.com/dlacksdn86
+**Learn more!** ==> [Blog Posting](https://blog.naver.com/dlacksdn86)

@@ -24,4 +24,4 @@ PC1> ping 10.1.1.2
 다음 명령어들을 순서대로 입력 한 뒤에 사진처럼 핑이 나타난다면 성공이다.
 
 
-**Learn more!** ==> https://blog.naver.com/dlacksdn86
+**Learn more!** ==> [Blog Posting](https://blog.naver.com/dlacksdn86)

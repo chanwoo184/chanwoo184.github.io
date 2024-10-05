@@ -5,7 +5,7 @@ date: 2024-08-30
 
 《파이트 클럽》(영어: Fight Club)은 1999년 개봉한 미국의 영화로, 척 팔라닉의 동명 소설을 원작으로 데이비드 핀처가 연출하였다.
 <!--more-->
-**You can watch it on CoupangPlay!** ==> https://www.coupangplay.com/content/5ff2c8fe-66a7-47b1-afd4-b380dd16760d
+**You can watch it on CoupangPlay!** ==> [CoupangPlay](https://www.coupangplay.com/content/5ff2c8fe-66a7-47b1-afd4-b380dd16760d)
 
 미국 소설가 척 팔라닉이 쓴 동명의 소설을 원작으로 한 데이비드 핀처의 1999년 영화.
 
